@@ -8,6 +8,9 @@
     <Compile Update="Pages\Calendar.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Pages\Information.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Pages\Main.xaml.cs">
       <SubType>Code</SubType>
     </Compile>

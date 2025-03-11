@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using CRM.Classes.Context;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -17,10 +18,12 @@ namespace CRM
     public partial class MainWindow : Window
     {
         public static MainWindow init;
-
+        Context context;
         public MainWindow()
         {
             InitializeComponent();
+            context = new Context();
+            context.specializations.FirstOrDefault(x => x.id.ToString() == "1");
             init = this;
             frame.Navigate(new Pages.Main());
         }
