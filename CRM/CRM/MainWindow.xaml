@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CRM"
         mc:Ignorable="d"
-        Title="CRM" Height="450" Width="800" MinHeight="450" MinWidth="800">
+        Title="CRM" Height="500" Width="1080" MinHeight="500" MinWidth="1080">
     <Grid>
         <Frame x:Name="frame" NavigationUIVisibility="Hidden"/>
     </Grid>

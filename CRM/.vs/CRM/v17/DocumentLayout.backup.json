@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CRM\\CRM\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{240B6869-7795-40B7-8D33-66B2D7B12072}|CRM\\CRM.csproj|c:\\users\\kiril\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\crm\\crm\\crm\\elements\\item.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{240B6869-7795-40B7-8D33-66B2D7B12072}|CRM\\CRM.csproj|solutionrelative:crm\\elements\\item.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{240B6869-7795-40B7-8D33-66B2D7B12072}|CRM\\CRM.csproj|c:\\users\\kiril\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\crm\\crm\\crm\\pages\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240B6869-7795-40B7-8D33-66B2D7B12072}|CRM\\CRM.csproj|solutionrelative:crm\\pages\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,19 +18,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 219,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Main.xaml.cs",
               "DocumentMoniker": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CRM\\CRM\\CRM\\Pages\\Main.xaml.cs",
               "RelativeDocumentMoniker": "CRM\\Pages\\Main.xaml.cs",
               "ToolTip": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CRM\\CRM\\CRM\\Pages\\Main.xaml.cs",
               "RelativeToolTip": "CRM\\Pages\\Main.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T09:57:33.098Z",
+              "WhenOpened": "2025-03-13T17:25:28.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Item.xaml",
+              "DocumentMoniker": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CRM\\CRM\\CRM\\Elements\\Item.xaml",
+              "RelativeDocumentMoniker": "CRM\\Elements\\Item.xaml",
+              "ToolTip": "C:\\Users\\kiril\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CRM\\CRM\\CRM\\Elements\\Item.xaml*",
+              "RelativeToolTip": "CRM\\Elements\\Item.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-11T11:56:19.05Z",
               "EditorCaption": ""
             }
           ]

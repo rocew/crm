@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using CRM.Classes.Context;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -17,7 +18,6 @@ namespace CRM
     public partial class MainWindow : Window
     {
         public static MainWindow init;
-
         public MainWindow()
         {
             InitializeComponent();
