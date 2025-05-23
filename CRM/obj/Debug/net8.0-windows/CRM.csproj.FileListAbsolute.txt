@@ -1,0 +1,313 @@
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\bin\Debug\net8.0-windows\CRM.exe
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\bin\Debug\net8.0-windows\CRM.deps.json
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\bin\Debug\net8.0-windows\CRM.runtimeconfig.json
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\bin\Debug\net8.0-windows\CRM.dll
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\bin\Debug\net8.0-windows\CRM.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\CRM.csproj.AssemblyReference.cache
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\Elements\Item.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\Pages\Calendar.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\Pages\Information.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\Pages\Main.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\CRM_MarkupCompile.cache
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\CRM_MarkupCompile.lref
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\Elements\Item.baml
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\Pages\Calendar.baml
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\Pages\Information.baml
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\Pages\Main.baml
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\CRM.g.resources
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\CRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\CRM.AssemblyInfoInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\CRM.AssemblyInfo.cs
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\CRM.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\CRM.sourcelink.json
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\CRM.csproj.Up2Date
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\CRM.dll
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\refint\CRM.dll
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\CRM.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\CRM.genruntimeconfig.cache
+C:\Users\kiril\OneDrive\Рабочий стол\CRM\CRM\CRM\obj\Debug\net8.0-windows\ref\CRM.dll
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\CRM.exe
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\CRM.deps.json
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\CRM.runtimeconfig.json
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\CRM.dll
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\CRM.pdb
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.csproj.AssemblyReference.cache
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Elements\Item.g.cs
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\Calendar.g.cs
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\Information.g.cs
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\Main.g.cs
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM_MarkupCompile.cache
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM_MarkupCompile.lref
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Elements\Item.baml
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\Calendar.baml
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\Information.baml
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\Main.baml
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.g.resources
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.AssemblyInfoInputs.cache
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.AssemblyInfo.cs
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.csproj.CoreCompileInputs.cache
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.csproj.Up2Date
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.dll
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\refint\CRM.dll
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.pdb
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.genruntimeconfig.cache
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\ref\CRM.dll
+C:\Users\Антон\OneDrive\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.csproj.AssemblyReference.cache
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Elements\Item.g.cs
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\Calendar.g.cs
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\Information.g.cs
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\Main.g.cs
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM_MarkupCompile.cache
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM_MarkupCompile.lref
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.dll
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\refint\CRM.dll
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.pdb
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\ApplicantsPage.baml
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\ApplicantsPage.g.cs
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\CRM.exe
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\CRM.deps.json
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\CRM.runtimeconfig.json
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\CRM.dll
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\CRM.pdb
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Elements\Item.baml
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\Calendar.baml
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\Information.baml
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\Main.baml
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.g.resources
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.AssemblyInfoInputs.cache
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.AssemblyInfo.cs
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.csproj.CoreCompileInputs.cache
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.csproj.Up2Date
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.genruntimeconfig.cache
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\ref\CRM.dll
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\EmployeesPage.g.cs
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\EmployeesPage.baml
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\App.baml
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\AddEditEmployeePage.baml
+C:\Users\kokes\Desktop\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\AddEditEmployeePage.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\bin\Debug\net8.0-windows\CRM.exe
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\bin\Debug\net8.0-windows\CRM.deps.json
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\bin\Debug\net8.0-windows\CRM.runtimeconfig.json
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\bin\Debug\net8.0-windows\CRM.dll
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\bin\Debug\net8.0-windows\CRM.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.csproj.AssemblyReference.cache
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\AddEditEmployeePage.baml
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\Main.baml
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\App.baml
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Elements\Item.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\AddEditEmployeePage.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\ApplicantsPage.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\Calendar.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\EmployeesPage.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\Information.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\Main.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM_MarkupCompile.cache
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM_MarkupCompile.lref
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Elements\Item.baml
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\ApplicantsPage.baml
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\Calendar.baml
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\EmployeesPage.baml
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\Pages\Information.baml
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.g.resources
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.AssemblyInfoInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.AssemblyInfo.cs
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.csproj.Up2Date
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.dll
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\refint\CRM.dll
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\CRM.genruntimeconfig.cache
+C:\Users\kiril\OneDrive\Рабочий стол\crm-design\CRM\CRM\obj\Debug\net8.0-windows\ref\CRM.dll
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\CRM.exe
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\CRM.deps.json
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\CRM.runtimeconfig.json
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\CRM.dll
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\CRM.pdb
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM.csproj.AssemblyReference.cache
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\AddEditEmployeePage.baml
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\Main.baml
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\App.baml
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Elements\EmloyeesElement.g.cs
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Elements\Item.g.cs
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\AddEditEmployeePage.g.cs
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\ApplicantsPage.g.cs
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\Calendar.g.cs
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\EmployeesPage.g.cs
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\Information.g.cs
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\Main.g.cs
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM_MarkupCompile.cache
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM_MarkupCompile.lref
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Elements\EmloyeesElement.baml
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Elements\Item.baml
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\ApplicantsPage.baml
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\Calendar.baml
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\EmployeesPage.baml
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\Information.baml
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM.g.resources
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM.AssemblyInfoInputs.cache
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM.AssemblyInfo.cs
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM.csproj.CoreCompileInputs.cache
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM.csproj.Up2Date
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM.dll
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\refint\CRM.dll
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM.pdb
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM.genruntimeconfig.cache
+C:\Users\kokes\Desktop\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\ref\CRM.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\CRM.exe
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\CRM.deps.json
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\CRM.runtimeconfig.json
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\CRM.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\CRM.pdb
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM.csproj.AssemblyReference.cache
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\AddEditEmployeePage.baml
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\Main.baml
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\App.baml
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Elements\EmloyeesElement.g.cs
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Elements\Item.g.cs
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\AddEditEmployeePage.g.cs
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\ApplicantsPage.g.cs
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\Calendar.g.cs
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\EmployeesPage.g.cs
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\Information.g.cs
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\Main.g.cs
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM_MarkupCompile.cache
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM_MarkupCompile.lref
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Elements\EmloyeesElement.baml
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Elements\Item.baml
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\ApplicantsPage.baml
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\Calendar.baml
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\EmployeesPage.baml
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Pages\Information.baml
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM.g.resources
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM.AssemblyInfoInputs.cache
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM.AssemblyInfo.cs
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM.csproj.CoreCompileInputs.cache
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM.csproj.Up2Date
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\refint\CRM.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM.pdb
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\CRM.genruntimeconfig.cache
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\ref\CRM.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Elements\ApplicantElement.g.cs
+C:\Users\kokes\Desktop\crm-design2\crm-design1\CRM\CRM\obj\Debug\net8.0-windows\Elements\ApplicantElement.baml
